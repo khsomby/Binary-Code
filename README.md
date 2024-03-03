@@ -1,8 +1,8 @@
 # Installation
 
-git clone https://github.com/khsomby/binary
+git clone https://github.com/khsomby/Binary-Code
 
-cd binary
+cd Binary-Code
 
 python Somby-bin.py
 
