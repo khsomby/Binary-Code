@@ -6,3 +6,7 @@ cd Binary-Code
 
 python Somby-bin.py
 
+
+# Screenshots
+
+![Screenshot](Screenshot_20240303-090204.png)
