@@ -1,4 +1,4 @@
-# Encrypted by Somby
+# Encrypted by Somby Ny Aina
 
 sombysomby = ""
 sombysomby += "\x61\x57\x31\x77\x62\x33\x4a\x30\x49\x48"
